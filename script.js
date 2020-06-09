@@ -1,4 +1,4 @@
-unction setup(){
+function setup(){
 	createCanvas(1000, 600);
 }
 if($("button").click(function(){
