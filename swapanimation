@@ -1,0 +1,16 @@
+function setup(){
+	createCanvas(600, 400);
+		
+}
+let x=283,y=250;
+function draw() {
+  background(250,250,100);
+  fill(250,200,200);
+  rect(x,120,33,20);
+  rect(y,120,33,90); 
+  if(x>250)
+  x=x-1;
+  if(y<283)
+  y=y+1;
+
+}
