@@ -64,7 +64,42 @@ function st()
             }
 
     }
+   
+   
+   
+//    let values = [33,190,80,7,340,100];
+// let flag = 0;
+// let i=0;
+// let j=0;
+// let temp=0;
+// let p=0;
+
+// function setup(){
+// 	createCanvas(800,600);
+//     background(0);
+//     frameRate(2);
+// }
+// function draw(){
+// values.forEach(function(value){
+//          fill(250,0,200);
+//          rect(p,10,20,value);
+//          p = p+20;
+// })
+// p=0;
+// bs();	
+// }
+
+// function bs(){
+// 	  for(i = 0; i < values.length - 1; i++) {
+//         if(values[i] > values[i+1]) {
+//             temp = values[i+1];
+//             values[i+1] = values[i];
+//             values[i] = temp;
+//         }	
+// 	}
+   
+//  }
     
-  }  }
+//   }  }
         
   
